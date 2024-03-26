@@ -1,4 +1,4 @@
-// Name: Jonathan Mitelman
+By Jonathan Mitelman
 
 // Usage:  <source file> <prefix file name> <chunk size (K) (dont actually write in K just put the number)> <number of chunks to combine>
 #include <stdio.h>
