@@ -1,5 +1,4 @@
-// Name: Jonathan Mitelman
-
+By Jonathan Mitelman
 // Usage: ./mybreak <source file> <prefix of new file name> <chunk size (K)>
 #include <stdio.h>
 #include <stdlib.h>
